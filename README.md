@@ -12,10 +12,10 @@ The analysis uses SQL in Microsoft SQL Server Management Studio (SSMS).
 
 The dataset is not included in this repository due to its large file size. Please download it from the original source to reproduce the analysis.
 
-## Tools Used
-- Microsoft SQL Server
-- SQL Server Management Studio (SSMS)
-- SQL
+## Tools and Technologies
+- SQL (Query Language)
+- Microsoft SQL Server (Database Management System)
+- SQL Server Management Studio (SSMS) (Database Management Tool)
 
 ## Project Files
 - `01_data_validation.sql` – Checks data quality and validates the dataset.
