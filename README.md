@@ -1,4 +1,4 @@
-# UK Online Retail Sales Analysis using SQL
+# Online Retail Sales Analysis using SQL
 
 ## Project Overview
 This project analyzes retail transaction data from a UK-based online retailer to identify sales trends, top-performing products, customer purchasing patterns, and country-wise revenue.
